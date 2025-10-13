@@ -308,3 +308,4 @@ git help <command>
 7. How do you undo the last commit?
 8. What’s the use of `.gitignore`?
 
+## thanks for watching
